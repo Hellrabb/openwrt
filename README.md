@@ -1,4 +1,4 @@
-感谢@P3TERX相关教程，本代码仅为x86编译，整合相关仓库
+感谢@P3TERX相关教程，本代码仅为x86编译，整合相关仓库,每月自动更新编译
 
 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
